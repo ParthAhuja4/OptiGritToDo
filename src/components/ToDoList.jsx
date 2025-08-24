@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import TodoItem from "./TodoItem";
+import TodoItem from "./ToDoItem";
 import { Stack } from "@mui/material";
 
 const TodoList = ({ setInput, setEditId }) => {
