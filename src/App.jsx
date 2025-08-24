@@ -5,7 +5,7 @@ import { Container, Paper, Typography } from "@mui/material";
 
 import Header from "./components/Header";
 import TodoInput from "./components/ToDoInput";
-import TodoList from "./components/TodoList";
+import TodoList from "./components/ToDoList";
 import ClearButton from "./components/ClearButton";
 
 const App = () => {
